@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595104681842",
+    "project_id": "bmr-transport",
+    "storage_bucket": "bmr-transport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595104681842:android:84154b57288246480497eb",
+        "android_client_info": {
+          "package_name": "com.example.site_bmr_transport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvvZZZ114Hkd0Hsm-eIhIYhpjVFn9ifo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
